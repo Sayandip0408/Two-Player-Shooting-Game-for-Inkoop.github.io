@@ -1,5 +1,9 @@
 # Two-Player-Shooting-Game-for-Inkoop.github.io
 
+# Play the game here:
+
+https://sayandip0408.github.io/Two-Player-Shooting-Game-for-Inkoop.github.io/
+
 Create a 2 player shooting game. 
 
 Each player has a health of 100. 
